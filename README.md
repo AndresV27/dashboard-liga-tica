@@ -1,4 +1,4 @@
-Dashboard Liga Tica - Top Goleadores
+Dashboard Campeonato Clausura 2026 - Top Goleadores
 
 Dashboard interactivo desarrollado en Power BI que muestra las estadísticas 
 de los mejores goleadores de los 4 equipos grandes de la Primera División 
